@@ -1,4 +1,4 @@
-# The Ultimate Emoji List
+# THE ULTIMATE EMOJI LIST
 
 Emoji's are an important part of our every day life. To facilitate our work and increase efficiency, I have compiled this list of all currently available emoji's. You can copy/paste these as needed. Keep in mind that the emoji's will display differently depending on which program you use to display them (e.g. TextEdit, Sublime, MS Word, FireFox, etc.). For your convenience I have also included a link to the website from which these were compiled.
  
